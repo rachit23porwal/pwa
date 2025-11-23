@@ -1,0 +1,24 @@
+{
+  "name": "Smart Parking System",
+  "short_name": "Parking",
+  "start_url": "/parking_system/book-now/index.php",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#00ffc6",
+  "icons": [
+    {
+      "src": "assets/img/ui/app-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/img/ui/app-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "categories": [
+    "lifestyle"
+  ],
+  "description": "🚗 Smart Parking – Reserve, Manage &amp; Park Smarter\n\nSmart Parking is your intelligent, real-time parking companion built for a faster, easier, and more secure parking experience.\nFrom finding live available slots to managing your cars, wallet, bookings, and alerts — everything is handled in one seamless app.\n\nWhether you are at home, office, mall, or gated community, Smart Parking eliminates parking chaos with sub-second updates, automated booking, and real-time gate sync powered by IoT + Firebase.\n\n🌟 Key Features\n🔴 Live Parking Status (IoT + Firebase Powered)\n\nView live occupancy, reserved slots, and availability at lightning speed.\nThe system syncs directly with gate hardware for real-time slot updates.\n\n🅿️ Book Parking in One Tap\n\nChoose your preferred slot\n\nAuto-reserved for 15 minutes\n\nNo manual checks or delays\n\nSmart Parking ensures fast, conflict-free bookings with intelligent slot validation.\n\n🚗 Manage Your Vehicles\n\nAdd, edit, or delete your registered cars with a beautiful UI.\nEach car can be used instantly for bookings.\n\n💰 Smart Wallet\n\nRecharge your wallet, track all transaction history, and enjoy smooth auto-deduction during bookings.\n\n🔔 Instant Notifications\n\nGet alerts for:\n\nBooking confirmations\n\nCancellations\n\nRefunds\n\nExpiry warnings\n\nSupport replies\n\nUnread notifications are highlighted with a glowing dot for easy tracking.\n\n📊 Your Personal Dashboard\n\nA futuristic dashboard shows:\n\nLive radar visualization\n\nWallet balance\n\nTotal bookings\n\nRegistered cars\n\nQuick access cards\n\nAll animated with stunning neon visuals.\n\n🆘 24×7 Support System\n\nCreate tickets and chat with support directly from the app.\nEvery message is synced live.\n\n⚡ Why Smart Parking?\n\nSmart Parking combines:\n\nReal-time IoT connectivity\n\nUltra-fast Firebase integration\n\nSecure payment processing\n\nCrazy futuristic UI\n\nBlazing fast PWA performance\n\nParking has never felt this smooth, modern, and effortless.\n\n📱 Install &amp; Experience the Future of Parking\n\nNo clutter. No confusion. No queues.\nJust tap → book → park.\n\nSwitch to the intelligent way of managing your parking today with Smart Parking."
+}
